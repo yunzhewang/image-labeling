@@ -1,0 +1,223 @@
+/*generate by google*/
+p {
+    margin: 0px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+h2 {
+    margin: 0px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+body {
+    background-color: transparent;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    -moz-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    perspective: 1400px;
+    -webkit-perspective: 1400px;
+    -moz-perspective: 1400px;
+    transform-style: preserve-3d;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+}
+
+.gwd-div-g7i4 {
+    position: absolute;
+    top: 56px;
+    left: 95px;
+    height: 300px;
+    width: 320px;
+    border-style: solid;
+    border-width: 3px;
+    border-image-source: none;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-color: rgb(98, 98, 102);
+    border-radius: 10px;
+}
+
+.gwd-button-7nf8 {
+    position: absolute;
+    width: 77px;
+    height: 26px;
+    background-image: none;
+    background-color: rgb(142, 190, 255);
+    border-radius: 6px;
+    border-image-source: none;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    border-color: transparent;
+    left: 348px;
+    top: 359px;
+    font-size: 16px;
+    font-family: times;
+}
+
+.gwd-div-1j9x {
+    left: 462px;
+    top: 56px;
+    height: 180px;
+}
+
+.gwd-div-1ok7 {
+    height: 90px;
+    top: 320px;
+    left: 592px;
+}
+
+.gwd-span-3tfl {
+    position: absolute;
+    height: 18px;
+    transform-origin: 18.5px 8.5px 0px;
+    -webkit-transform-origin: 18.5px 8.5px 0px;
+    -moz-transform-origin: 18.5px 8.5px 0px;
+    width: 35px;
+    top: 133px;
+    left: 612px;
+}
+
+.gwd-span-1a7t {
+    position: absolute;
+    width: 79px;
+    height: 22px;
+    transform-origin: 17.5px -37.5px 0px;
+    -webkit-transform-origin: 17.5px -37.5px 0px;
+    -moz-transform-origin: 17.5px -37.5px 0px;
+    top: 179px;
+    left: 611px;
+}
+
+.gwd-span-1dxh {
+    position: absolute;
+    width: 32px;
+    height: 20px;
+    transform-origin: 11.5px -90.5px 0px;
+    -webkit-transform-origin: 11.5px -90.5px 0px;
+    -moz-transform-origin: 11.5px -90.5px 0px;
+    top: 228px;
+    left: 613px;
+}
+
+.gwd-div-sydz {
+    left: 592px;
+    top: 109px;
+}
+
+.gwd-span-1ms2 {
+    position: absolute;
+    width: 232px;
+    height: 26px;
+    transform-origin: 163px -143px 0px;
+    -webkit-transform-origin: 163px -143px 0px;
+    -moz-transform-origin: 163px -143px 0px;
+    top: 333px;
+    left: 604px;
+}
+
+.gwd-div-1jgz {
+    top: 109px;
+    left: 225px;
+}
+
+.gwd-div-11pm {
+    position: absolute;
+    width: 523px;
+    height: 53px;
+    top: 22px;
+    left: 313px;
+}
+
+.gwd-p-1u1w {
+    position: absolute;
+    top: 22px;
+    font-size: 43px;
+    height: 53px;
+    transform-origin: 206px 38px 0px;
+    -webkit-transform-origin: 206px 38px 0px;
+    -moz-transform-origin: 206px 38px 0px;
+    width: 280px;
+    left: 442px;
+}
+
+.gwd-div-1vo5 {
+    position: absolute;
+    width: 276px;
+    height: 193px;
+    top: 136px;
+    left: 252px;
+}
+
+.gwd-div-15dz {
+    position: absolute;
+    width: 253px;
+    height: 40px;
+    left: 654px;
+    top: 129px;
+    font-size: 12px;
+}
+
+.gwd-div-169f {
+    top: 175px;
+    left: 698px;
+    width: 210px;
+}
+
+.gwd-div-1wpz {
+    top: 222px;
+    left: 654px;
+}
+
+.gwd-div-1l7y {
+    position: absolute;
+    width: 299px;
+    height: 33px;
+    top: 370px;
+    left: 604px;
+}
+
+
+/*Added by me*/
+
+div.scroll {
+    background-color: #f2f2f2;
+    overflow: auto;
+}
+
+p.img {
+    height: 186px;
+    border-style: solid;
+    border-color: #b3d9ff;
+}
+
+.label-menu{
+    position: relative;
+    display: inline-block;
+}
+
+.label-select{
+    position: absolute;
+    bottom: 20px;
+    width: 300px;
+    font-size: 16px;
+}
+
+.select-opt{
+    font-size: 16px;
+}
+
+

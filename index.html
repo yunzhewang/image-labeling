@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8">
+  <title>Labeling_GUI</title>
+  <meta name="generator" content="Google Web Designer 1.9.0.0619">
+  <!-- <style type="text/css" id="gwd-text-style"></style>
+  <style type="text/css"></style> -->
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body class="htmlNoPages" id="user_img">
+  <!-- title part -->
+  <div class="gwd-div-11pm" id="div_title"></div>
+  <p class="gwd-p-1u1w" id="app_title">Image Category</p>
+
+  <!-- left part -->
+  <div class="gwd-div-g7i4 gwd-div-1jgz" id="div_view"></div>
+  <div class="gwd-div-1vo5" id="div_img">
+  	<p class="img" id="tar_img">
+      <img src="./img/start-img.png" height="186" width="270" id="my_img" onerror="imgError(this);">
+    </p>
+  </div>
+  <button class="gwd-button-7nf8" id="img_next">Next</button>
+
+  <!-- up right part -->
+  <div class="gwd-div-g7i4 gwd-div-1j9x gwd-div-sydz" id="img_info"></div>
+  <div class="gwd-div-15dz scroll" id="div_info_title"></div>
+  <div class="gwd-div-15dz gwd-div-169f scroll" id="div_info_desc"></div>
+  <div class="gwd-div-15dz gwd-div-1wpz scroll" id="div_info_tag"></div>
+
+  
+  <!-- bottom right part -->
+  <div class="gwd-div-g7i4 gwd-div-1j9x gwd-div-1ok7" id="img_label"></div>
+  <span class="gwd-span-3tfl">Title &nbsp;</span><span class="gwd-span-1a7t">Description</span><span class="gwd-span-1dxh">Tags</span><span class="gwd-span-1ms2">Please choose the closest category</span>
+
+  <!-- dropdown menu for label selection -->
+  <div class="gwd-div-1l7y" id="label_menu" class="label-menu">
+    <select class="label-select" id="label_select" onclick="selectLabel()">
+      <option value="none" class="select-opt"> --------- </option>
+      <option value="entertain" class="select-opt">Entertainment</option>
+      <option value="transport" class="select-opt">Transportation</option>
+      <option value="art" class="select-opt">Art and Education</option>
+      <option value="outdoors" class="select-opt">Outdoors</option>
+    </select>
+  </div>
+
+  <!-- scripts -->
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="./lib/jquery/jquery.js"></script>
+  <script src="./lib/FileSaver.js"></script>
+  <script type="text/javascript" src="./js/main.js"></script>
+
+</body></html>
